@@ -31,34 +31,6 @@
   </url>
   
   <url>
-    <loc>https://sonapona.github.io/sonapona-site/es/lessons/_one/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sonapona.github.io/sonapona-site/lessons/_one/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://sonapona.github.io/sonapona-site/es/lessons/_one/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://sonapona.github.io/sonapona-site/es/lessons/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sonapona.github.io/sonapona-site/lessons/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://sonapona.github.io/sonapona-site/es/lessons/"
-                />
-  </url>
-  
-  <url>
     <loc>https://sonapona.github.io/sonapona-site/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
