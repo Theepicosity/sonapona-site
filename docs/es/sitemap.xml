@@ -3,72 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://sonapona.github.io/sonapona-site/es/categories/</loc>
+    <loc>https://sonapona.github.io/sonapona-site/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sonapona.github.io/sonapona-site/categories/"
+                href="https://sonapona.github.io/sonapona-site/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://sonapona.github.io/sonapona-site/es/categories/"
+                href="https://sonapona.github.io/sonapona-site/es/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://sonapona.github.io/sonapona-site/es/</loc>
+    <loc>https://sonapona.github.io/sonapona-site/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sonapona.github.io/sonapona-site/"
+                href="https://sonapona.github.io/sonapona-site/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://sonapona.github.io/sonapona-site/es/"
+                href="https://sonapona.github.io/sonapona-site/es/"
                 />
   </url>
   
   <url>
-    <loc>http://sonapona.github.io/sonapona-site/es/lessons/_one/</loc>
+    <loc>https://sonapona.github.io/sonapona-site/es/lessons/_one/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sonapona.github.io/sonapona-site/lessons/_one/"
+                href="https://sonapona.github.io/sonapona-site/lessons/_one/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://sonapona.github.io/sonapona-site/es/lessons/_one/"
+                href="https://sonapona.github.io/sonapona-site/es/lessons/_one/"
                 />
   </url>
   
   <url>
-    <loc>http://sonapona.github.io/sonapona-site/es/lessons/</loc>
+    <loc>https://sonapona.github.io/sonapona-site/es/lessons/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sonapona.github.io/sonapona-site/lessons/"
+                href="https://sonapona.github.io/sonapona-site/lessons/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://sonapona.github.io/sonapona-site/es/lessons/"
+                href="https://sonapona.github.io/sonapona-site/es/lessons/"
                 />
   </url>
   
   <url>
-    <loc>http://sonapona.github.io/sonapona-site/es/tags/</loc>
+    <loc>https://sonapona.github.io/sonapona-site/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sonapona.github.io/sonapona-site/tags/"
+                href="https://sonapona.github.io/sonapona-site/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://sonapona.github.io/sonapona-site/es/tags/"
+                href="https://sonapona.github.io/sonapona-site/es/tags/"
                 />
   </url>
   

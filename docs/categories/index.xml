@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on kama sona</title>
-    <link>http://sonapona.github.io/sonapona-site/categories/</link>
+    <link>https://sonapona.github.io/sonapona-site/categories/</link>
     <description>Recent content in Categories on kama sona</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://sonapona.github.io/sonapona-site/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sonapona.github.io/sonapona-site/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
