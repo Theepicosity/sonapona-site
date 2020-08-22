@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kama sona</title>
-    <link>https://sonapona.github.io/sonapona-site/</link>
-    <description>Recent content on kama sona</description>
+    <title>Analyses on kama sona</title>
+    <link>https://sonapona.github.io/sonapona-site/analyses/</link>
+    <description>Recent content in Analyses on kama sona</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://sonapona.github.io/sonapona-site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sonapona.github.io/sonapona-site/analyses/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -61,18 +61,6 @@ Dialect of toki pona characterised by:
       <description>Information    metric info     Speaker Count ~100   Vocabulary Alignment Palic   Commonly Found In Minecraft   A-Alignment A-Final   Complexity Alignment Pelac    Notable Non-pu Vocabulary ewe stone, gravel, rock, pebble, lava, magma
 When ewe is used, kiwen is reduced to usage for only metal.
 Shared Meanings This is not a dictionary, only analysing commonly shared concepts a Mankanian speaker is likely to recognise as a primary meaning of a phrase.</description>
-    </item>
-    
-    <item>
-      <title>lesson one: toki!</title>
-      <link>https://sonapona.github.io/sonapona-site/lessons/one/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sonapona.github.io/sonapona-site/lessons/one/</guid>
-      <description>welcome to this site!
-here you can learn toki pona.
-lorem ipsum.
-   hello oy vey     keke kekeke    </description>
     </item>
     
   </channel>

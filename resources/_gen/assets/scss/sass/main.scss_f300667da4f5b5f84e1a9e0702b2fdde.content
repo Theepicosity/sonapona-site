@@ -47,6 +47,7 @@ table {
   --on-chrome: #000000;
   --view: #ffffff;
   --on-view: #000000;
+  --on-view-faint: rgba(0, 0, 0, 0.7);
   --card-bg: #ffffff;
   --on-card: #000000;
   --rim: rgba(0,0,0,0.1); }
@@ -57,6 +58,7 @@ table {
     --on-chrome: #ffffff;
     --view: #000000;
     --on-view: #ffffff;
+    --on-view-faint: rgba(255, 255, 255, 0.7);
     --card-bg: #121212;
     --on-card: #ffffff;
     --rim: rgba(255,255,255,0.1); } }
@@ -82,6 +84,9 @@ a {
   font-style: normal;
   font-weight: normal; }
 
+h1, h2, h4, p {
+  margin: 30px 0px; }
+
 h1 {
   font-size: 25pt;
   line-height: 34px;
@@ -100,7 +105,21 @@ h4 {
 
 p {
   font-size: 16pt;
+  line-height: 24pt;
   margin: 4pt 0pt; }
+
+ul, ol {
+  margin-left: 20pt; }
+
+li {
+  font-size: 16pt;
+  margin: 10pt 0pt;
+  list-style-type: circle; }
+  ol li {
+    list-style-type: upper-roman; }
+
+em {
+  font-style: italic; }
 
 table {
   border-collapse: separate;
@@ -180,6 +199,13 @@ table {
   display: block;
   padding: 16px 14px; }
 
+blockquote {
+  border-left: 4px solid var(--rim);
+  padding-left: 16px;
+  margin: 20px 0px; }
+  blockquote, blockquote p {
+    color: var(--on-view-faint); }
+
 @media screen and (max-width: 799px) {
   .nlp-paned__left {
     display: none;
@@ -196,6 +222,8 @@ table {
 @media screen and (min-width: 800px) {
   .nlp-drawer-button, .nlp-scrim {
     display: none; }
+  .nlp-content {
+    max-width: 40vw; }
   .nlp-paned__left {
     flex: 0 1 300px;
     min-height: 100%; }
