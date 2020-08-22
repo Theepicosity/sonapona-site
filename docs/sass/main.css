@@ -150,10 +150,23 @@ table {
   border-radius: 4px;
   background-color: var(--card-bg);
   border: 1px solid var(--rim);
+  display: grid;
+  place-items: center;
   z-index: 1;
   box-shadow: 0 3.2px 7.2px 0 rgba(0, 0, 0, 0.132), 0 0.6px 1.8px 0 rgba(0, 0, 0, 0.108); }
   .nlp-drawer-button:active {
     filter: brightness(90%); }
+
+.footer-line {
+  background-color: var(--chrome);
+  border-top: 1px solid var(--rim);
+  border-bottom: 0;
+  margin-left: 10vw;
+  margin-right: 10vw; }
+
+.nlp-footer {
+  background-color: var(--chrome);
+  padding-left: 10vw; }
 
 .nlp-paned__left {
   background-color: var(--chrome);
@@ -189,3 +202,6 @@ table {
   .nlp-paned__right {
     flex: 1 1 300px;
     min-height: 100%; } }
+
+body {
+  background-color: var(--chrome); }
