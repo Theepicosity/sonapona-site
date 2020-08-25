@@ -3,11 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sonapona.github.io/sonapona-site/lessons/one/</loc>
+  </url>
+  
+  <url>
     <loc>https://sonapona.github.io/sonapona-site/analyses/terminology/</loc>
   </url>
   
   <url>
     <loc>https://sonapona.github.io/sonapona-site/analyses/overview/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sonapona.github.io/sonapona-site/lessons/two/</loc>
   </url>
   
   <url>
@@ -48,10 +56,6 @@
                 hreflang="en"
                 href="https://sonapona.github.io/sonapona-site/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://sonapona.github.io/sonapona-site/lessons/one/</loc>
   </url>
   
   <url>
